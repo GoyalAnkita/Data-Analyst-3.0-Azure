@@ -8,3 +8,10 @@ This repository will deep dive into the tech stack which is leveraged to analyse
 5)Azure
 6)GenAI
 7)Python in Excel
+
+
+Class 1- SQL Concepts
+
+DDL
+DML
+DCL
